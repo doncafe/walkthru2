@@ -4,4 +4,4 @@
 
 This is a repo for python & pytorch course.
 
-## Some exercises
+## Some exercises with Python
